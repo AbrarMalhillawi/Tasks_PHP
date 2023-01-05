@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 //  ***************task1*****************
 
 // 1. Write a PHP script to get the PHP version and configuration information.
@@ -123,3 +124,8 @@ echo '<a href="https://www.w3schools.com/php/default.asp">
 
 
 
+=======
+phpinfo();
+echo("hnlhlhly ");
+?>
+>>>>>>> 697ca6e659772f86929b0178dad6981b465265d8
